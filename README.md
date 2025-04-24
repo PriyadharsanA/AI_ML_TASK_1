@@ -6,6 +6,8 @@ Objective: Learn how to clean and prepare raw data for ML.
 
 Tools: Python, Pandas, NumPy, Matplotlib/Seaborn
 
+Dataset used: Titanic Dataset(Kaggle)
+
 I have done the follwing things:
 1.Import the dataset and explore basic info (nulls, data types).
 2.Handle missing values using mean/median/imputation.
